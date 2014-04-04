@@ -28,6 +28,7 @@
 		824468BF18D2A51F005DF626 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 824468BA18D2A51F005DF626 /* JRT.jpg */; };
 		824468C018D2A51F005DF626 /* St.Bernard.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 824468BB18D2A51F005DF626 /* St.Bernard.JPG */; };
 		8275F22218D5397000614F7B /* MBFPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8275F22118D5397000614F7B /* MBFPuppy.m */; };
+		82B6790618EE339E00F7A003 /* MBFGitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6790518EE339E00F7A003 /* MBFGitTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,8 @@
 		824468BB18D2A51F005DF626 /* St.Bernard.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = St.Bernard.JPG; sourceTree = "<group>"; };
 		8275F22018D5397000614F7B /* MBFPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBFPuppy.h; sourceTree = "<group>"; };
 		8275F22118D5397000614F7B /* MBFPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBFPuppy.m; sourceTree = "<group>"; };
+		82B6790418EE339E00F7A003 /* MBFGitTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBFGitTest.h; sourceTree = "<group>"; };
+		82B6790518EE339E00F7A003 /* MBFGitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBFGitTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				8244687418CE7F03005DF626 /* MBFDog.m */,
 				8275F22018D5397000614F7B /* MBFPuppy.h */,
 				8275F22118D5397000614F7B /* MBFPuppy.m */,
+				82B6790418EE339E00F7A003 /* MBFGitTest.h */,
+				82B6790518EE339E00F7A003 /* MBFGitTest.m */,
 				8244685618CE7CF9005DF626 /* Images.xcassets */,
 				8244684518CE7CF9005DF626 /* Supporting Files */,
 			);
@@ -284,6 +289,7 @@
 				8244685518CE7CF9005DF626 /* MBFViewController.m in Sources */,
 				8244687518CE7F03005DF626 /* MBFDog.m in Sources */,
 				8244684B18CE7CF9005DF626 /* main.m in Sources */,
+				82B6790618EE339E00F7A003 /* MBFGitTest.m in Sources */,
 				8275F22218D5397000614F7B /* MBFPuppy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
